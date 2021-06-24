@@ -1,0 +1,5 @@
+Member 		:yani@gmail.com 12345
+Admin OPD 	:diskominfo@gmail.com 12345
+Mentor 		:isabaharoni@gmail.com 1234
+
+alamat : localhost/simagang
